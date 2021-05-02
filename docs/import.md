@@ -64,7 +64,7 @@ For a detailed explanation of the `import` keyword see the
 
 
 ## Importing a files for manipulation
-When importing from the home tab widgets or with a remix command in the console, the files are placed in the **root of the current Workspace** inside a folder the shows their source - eg github or gists.
+When importing from the home tab widgets or with a remix command in the console, the files are placed in the **root of the current Workspace** inside a folder that shows their source - eg github or gists.
 
 ### Import buttons on the Remix home tab
 The Gist, Github, Swarm, IPFS, & HTTPS buttons are to assist in getting files into Remix so you can explore.
